@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+
+:root {
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    --bg-icons: #131313;
+    --bg-arrow-color: rgba(0,0,0.7);
+}
